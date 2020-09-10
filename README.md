@@ -6,4 +6,4 @@ The Descriptive stats runs through concepts such as outliers, quartiles, standar
 
 Soon to be uploaded-
 
-Visulation techniques, Hypothesis testing, Regression, Bayesian methods, Classification and Resampling.
+Visulisation techniques, Hypothesis testing, Regression, Bayesian methods, Classification and Resampling.
