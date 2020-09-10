@@ -1,6 +1,6 @@
 # DataScience_Stats
 
-In this file I show some simple Statistical methods used in Data Science. 
+In this file I demonstrate some simple Statistical methods used in Data Science. 
 
 The Descriptive stats runs through concepts such as outliers, quartiles, standard deviation, z score and data grouping using dates.
 
