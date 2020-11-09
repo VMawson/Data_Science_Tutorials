@@ -13,6 +13,9 @@ In this file I demonstrate some simple Statistical methods used in Data Science.
 
 * **Sampling & resampling methods:**
 	demonstrates different sampling and resamplig methods, with examples of cross validation and bootstrapping
+	
+* **Visualisation techniques:**
+	using seaborn and Matplotlib to demonstrate a number of various plotting techniques on continuous and categoric data
 
 
 **Example Projects-**
@@ -24,4 +27,4 @@ In this file I demonstrate some simple Statistical methods used in Data Science.
 
 **Soon to be uploaded-**
 
-Visulisation techniques, Regression- categorical variables, Bayesian methods, Classification .
+Regression- categorical variables, Bayesian methods, Classification .
