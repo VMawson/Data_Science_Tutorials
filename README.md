@@ -1,6 +1,6 @@
 # DataScience_Stats
 
-In this file I demonstrate some simple Statistical methods used in Data Science. 
+Here you can find some examples and projects demonstrating some simple Statistical methods used in Data Science. 
 
 * **Descriptive stats:** 
 	runs through concepts such as outliers, quartiles, standard deviation, z score and data grouping using dates.
@@ -17,6 +17,8 @@ In this file I demonstrate some simple Statistical methods used in Data Science.
 * **Visualisation techniques:**
 	using seaborn and Matplotlib to demonstrate a number of various plotting techniques on continuous and categoric data
 
+* **Encoding Categorical Data:**
+	how to deal with categorical data during data preprocessing. Examples with nominal and ordinal data.
 
 **Example Projects-**
 
