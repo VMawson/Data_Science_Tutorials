@@ -25,6 +25,7 @@ Here you can find some examples and projects demonstrating some simple Statistic
 
 * Grouping by date demostrated with the use of a weather datase
 * Penguins project - data cleaning, reformatting, visualisation and machine learning methods on the penguin dataset
+* Population growth- Using regression to predict population growth in the UK
 
 
 **Soon to be uploaded-**
