@@ -23,7 +23,7 @@ Here you can find some examples and projects demonstrating some simple Statistic
 * **Regression - Categorical Data:**
 	Regression with categorical data using models such as Logistic regression, binary and ordinal regression.
 	
-* **ANN- Feature Importance- Appliance Energy Consumption Prediction: **
+* **ANN- Feature Importance- Appliance Energy Consumption Prediction:**
 	Demonstrating feature importance with an ANN for an energy dataset.
 
 
