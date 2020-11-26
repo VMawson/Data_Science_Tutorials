@@ -19,6 +19,13 @@ Here you can find some examples and projects demonstrating some simple Statistic
 
 * **Encoding Categorical Data:**
 	how to deal with categorical data during data preprocessing. Examples with nominal and ordinal data.
+	
+* **Regression - Categorical Data:**
+	Regression with categorical data using models such as Logistic regression, binary and ordinal regression.
+	
+* **ANN- Feature Importance- Appliance Energy Consumption Prediction: **
+	Demonstrating feature importance with an ANN for an energy dataset.
+
 
 **Example Projects-**
 
@@ -30,4 +37,4 @@ Here you can find some examples and projects demonstrating some simple Statistic
 
 **Soon to be uploaded-**
 
-Regression- categorical variables, Bayesian methods, Classification .
+Regression-Bayesian methods, Classification .
