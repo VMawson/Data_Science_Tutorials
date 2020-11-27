@@ -1,4 +1,4 @@
-# DataScience_Stats
+# Data Science Tutorials in Python
 
 Here you can find some examples and projects demonstrating some simple Statistical methods used in Data Science. 
 
