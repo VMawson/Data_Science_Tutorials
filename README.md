@@ -25,6 +25,9 @@ Here you can find some examples and projects demonstrating some simple Statistic
 	
 * **ANN- Feature Importance- Appliance Energy Consumption Prediction:**
 	Demonstrating feature importance with an ANN for an energy dataset.
+	
+* **Bayesian Modelling using PyStan** 
+	Comparing bayesian methods using the python interface to Stan, comparing results with the Linear regression model from sklearn. 
 
 
 **Example Projects-**
@@ -37,4 +40,4 @@ Here you can find some examples and projects demonstrating some simple Statistic
 
 **Soon to be uploaded-**
 
-Regression-Bayesian methods, Classification .
+Classification, Random Forests, ANNs
