@@ -1,6 +1,6 @@
 # Data Science Tutorials in Python
 
-Here you can find some examples and projects demonstrating some simple Statistical methods used in Data Science. 
+Here you can find some examples and projects demonstrating some Statistical methods used in Data Science. 
 
 * **Descriptive stats:** 
 	runs through concepts such as outliers, quartiles, standard deviation, z score and data grouping using dates.
